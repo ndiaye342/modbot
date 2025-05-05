@@ -1,0 +1,2 @@
+# modbot
+Discord bot
